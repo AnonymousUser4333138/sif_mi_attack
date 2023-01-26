@@ -1,0 +1,16 @@
+matplotlib
+numba
+numpy
+pandas
+Pillow
+PyYAML
+scikit-learn
+scipy
+seaborn
+setuptools==59.4.0
+torch
+torchsummary
+torchvision
+tqdm
+tensorboard
+opacus
